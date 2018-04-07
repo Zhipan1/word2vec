@@ -1,6 +1,6 @@
-name: data100
 channels:
+- conda-forge
 - defaults
 dependencies:
-- gensim=3.4.0
-- numpy=1.12.1
+- gensim
+- numpy
