@@ -2,5 +2,5 @@ name: data100
 channels:
 - defaults
 dependencies:
-- gensim=3.5
+- gensim=3.4.0
 - numpy=1.12.1
